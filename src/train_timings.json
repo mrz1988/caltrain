@@ -1,0 +1,804 @@
+{
+    "Siri": {
+        "ServiceDelivery": {
+            "Status": true,
+            "ProducerRef": "CT",
+            "ResponseTimestamp": "2019-07-18T19:23:44Z",
+            "VehicleMonitoringDelivery": {
+                "VehicleActivity": [
+                    {
+                        "MonitoredVehicleJourney": {
+                            "OriginRef": "70012",
+                            "Bearing": null,
+                            "VehicleLocation": {
+                                "Latitude": "37.3703499",
+                                "Longitude": "-121.992607"
+                            },
+                            "OperatorRef": "CT",
+                            "VehicleRef": "142",
+                            "Monitored": true,
+                            "MonitoredCall": {
+                                "StopPointRef": "70242",
+                                "VehicleAtStop": "",
+                                "AimedDepartureTime": "2019-07-18T19:28:00Z",
+                                "StopPointName": "Santa Clara Caltrain",
+                                "VehicleLocationAtStop": "",
+                                "AimedArrivalTime": "2019-07-18T19:28:00Z",
+                                "ExpectedDepartureTime": "2019-07-18T19:28:00Z",
+                                "ExpectedArrivalTime": "2019-07-18T19:26:20Z"
+                            },
+                            "DestinationName": "San Jose Diridon Caltrain Station",
+                            "InCongestion": null,
+                            "DestinationRef": "70262",
+                            "Occupancy": null,
+                            "LineRef": "Local",
+                            "FramedVehicleJourneyRef": {
+                                "DataFrameRef": "2019-07-18",
+                                "DatedVehicleJourneyRef": "142"
+                            },
+                            "PublishedLineName": "Local",
+                            "OriginName": "San Francisco Caltrain",
+                            "DirectionRef": "South",
+                            "OnwardCalls": {
+                                "OnwardCall": []
+                            }
+                        },
+                        "RecordedAtTime": "2019-07-18T19:23:40Z",
+                        "ValidUntilTime": ""
+                    },
+                    {
+                        "MonitoredVehicleJourney": {
+                            "OriginRef": "70261",
+                            "Bearing": null,
+                            "VehicleLocation": {
+                                "Latitude": "37.5812912",
+                                "Longitude": "-122.34761"
+                            },
+                            "OperatorRef": "CT",
+                            "VehicleRef": "143",
+                            "Monitored": true,
+                            "MonitoredCall": {
+                                "StopPointRef": "70061",
+                                "VehicleAtStop": "",
+                                "AimedDepartureTime": "2019-07-18T19:20:00Z",
+                                "StopPointName": "Millbrae Caltrain",
+                                "VehicleLocationAtStop": "",
+                                "AimedArrivalTime": "2019-07-18T19:20:00Z",
+                                "ExpectedDepartureTime": "2019-07-18T19:27:38Z",
+                                "ExpectedArrivalTime": "2019-07-18T19:26:38Z"
+                            },
+                            "DestinationName": "San Francisco Caltrain Station",
+                            "InCongestion": null,
+                            "DestinationRef": "70011",
+                            "Occupancy": null,
+                            "LineRef": "Local",
+                            "FramedVehicleJourneyRef": {
+                                "DataFrameRef": "2019-07-18",
+                                "DatedVehicleJourneyRef": "143"
+                            },
+                            "PublishedLineName": "Local",
+                            "OriginName": "San Jose Diridon Caltrain",
+                            "DirectionRef": "North",
+                            "OnwardCalls": {
+                                "OnwardCall": [
+                                    {
+                                        "StopPointRef": "70051",
+                                        "ExpectedDepartureTime": "2019-07-18T19:30:35Z",
+                                        "AimedDepartureTime": "2019-07-18T19:25:00Z",
+                                        "StopPointName": "San Bruno Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T19:25:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:29:35Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70041",
+                                        "ExpectedDepartureTime": "2019-07-18T19:33:07Z",
+                                        "AimedDepartureTime": "2019-07-18T19:29:00Z",
+                                        "StopPointName": "South San Francisco Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T19:29:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:32:07Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70031",
+                                        "ExpectedDepartureTime": "2019-07-18T19:37:55Z",
+                                        "AimedDepartureTime": "2019-07-18T19:35:00Z",
+                                        "StopPointName": "Bayshore Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T19:35:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:36:55Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70021",
+                                        "ExpectedDepartureTime": "2019-07-18T19:41:36Z",
+                                        "AimedDepartureTime": "2019-07-18T19:41:00Z",
+                                        "StopPointName": "22nd Street Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T19:41:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:40:36Z"
+                                    }
+                                ]
+                            }
+                        },
+                        "RecordedAtTime": "2019-07-18T19:23:40Z",
+                        "ValidUntilTime": ""
+                    },
+                    {
+                        "MonitoredVehicleJourney": {
+                            "OriginRef": "70012",
+                            "Bearing": null,
+                            "VehicleLocation": {
+                                "Latitude": "37.6203918",
+                                "Longitude": "-122.405434"
+                            },
+                            "OperatorRef": "CT",
+                            "VehicleRef": "146",
+                            "Monitored": true,
+                            "MonitoredCall": {
+                                "StopPointRef": "70062",
+                                "VehicleAtStop": "",
+                                "AimedDepartureTime": "2019-07-18T19:25:00Z",
+                                "StopPointName": "Millbrae Caltrain",
+                                "VehicleLocationAtStop": "",
+                                "AimedArrivalTime": "2019-07-18T19:25:00Z",
+                                "ExpectedDepartureTime": "2019-07-18T19:25:23Z",
+                                "ExpectedArrivalTime": "2019-07-18T19:24:23Z"
+                            },
+                            "DestinationName": "San Jose Diridon Caltrain Station",
+                            "InCongestion": null,
+                            "DestinationRef": "70262",
+                            "Occupancy": null,
+                            "LineRef": "Local",
+                            "FramedVehicleJourneyRef": {
+                                "DataFrameRef": "2019-07-18",
+                                "DatedVehicleJourneyRef": "146"
+                            },
+                            "PublishedLineName": "Local",
+                            "OriginName": "San Francisco Caltrain",
+                            "DirectionRef": "South",
+                            "OnwardCalls": {
+                                "OnwardCall": [
+                                    {
+                                        "StopPointRef": "70082",
+                                        "ExpectedDepartureTime": "2019-07-18T19:29:33Z",
+                                        "AimedDepartureTime": "2019-07-18T19:29:00Z",
+                                        "StopPointName": "Burlingame Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T19:29:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:28:33Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70092",
+                                        "ExpectedDepartureTime": "2019-07-18T19:32:00Z",
+                                        "AimedDepartureTime": "2019-07-18T19:32:00Z",
+                                        "StopPointName": "San Mateo Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T19:32:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:30:37Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70102",
+                                        "ExpectedDepartureTime": "2019-07-18T19:36:00Z",
+                                        "AimedDepartureTime": "2019-07-18T19:36:00Z",
+                                        "StopPointName": "Hayward Park Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T19:36:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:32:43Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70112",
+                                        "ExpectedDepartureTime": "2019-07-18T19:39:00Z",
+                                        "AimedDepartureTime": "2019-07-18T19:39:00Z",
+                                        "StopPointName": "Hillsdale Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T19:39:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:34:24Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70122",
+                                        "ExpectedDepartureTime": "2019-07-18T19:43:00Z",
+                                        "AimedDepartureTime": "2019-07-18T19:43:00Z",
+                                        "StopPointName": "Belmont Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T19:43:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:36:48Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70132",
+                                        "ExpectedDepartureTime": "2019-07-18T19:46:00Z",
+                                        "AimedDepartureTime": "2019-07-18T19:46:00Z",
+                                        "StopPointName": "San Carlos Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T19:46:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:38:46Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70142",
+                                        "ExpectedDepartureTime": "2019-07-18T19:51:00Z",
+                                        "AimedDepartureTime": "2019-07-18T19:51:00Z",
+                                        "StopPointName": "Redwood City Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T19:51:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:41:33Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70162",
+                                        "ExpectedDepartureTime": "2019-07-18T19:56:00Z",
+                                        "AimedDepartureTime": "2019-07-18T19:56:00Z",
+                                        "StopPointName": "Menlo Park Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T19:56:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:45:31Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70172",
+                                        "ExpectedDepartureTime": "2019-07-18T20:00:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:00:00Z",
+                                        "StopPointName": "Palo Alto Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:00:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:47:36Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70192",
+                                        "ExpectedDepartureTime": "2019-07-18T20:04:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:04:00Z",
+                                        "StopPointName": "California Ave Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:04:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:50:32Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70202",
+                                        "ExpectedDepartureTime": "2019-07-18T20:08:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:08:00Z",
+                                        "StopPointName": "San Antonio Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:08:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:53:31Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70212",
+                                        "ExpectedDepartureTime": "2019-07-18T20:13:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:13:00Z",
+                                        "StopPointName": "Mountain View Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:13:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:56:05Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70222",
+                                        "ExpectedDepartureTime": "2019-07-18T20:18:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:18:00Z",
+                                        "StopPointName": "Sunnyvale Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:18:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:59:32Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70232",
+                                        "ExpectedDepartureTime": "2019-07-18T20:22:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:22:00Z",
+                                        "StopPointName": "Lawrence Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:22:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:02:19Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70242",
+                                        "ExpectedDepartureTime": "2019-07-18T20:28:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:28:00Z",
+                                        "StopPointName": "Santa Clara Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:28:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:06:36Z"
+                                    }
+                                ]
+                            }
+                        },
+                        "RecordedAtTime": "2019-07-18T19:23:40Z",
+                        "ValidUntilTime": ""
+                    },
+                    {
+                        "MonitoredVehicleJourney": {
+                            "OriginRef": "70261",
+                            "Bearing": null,
+                            "VehicleLocation": {
+                                "Latitude": "37.3543015",
+                                "Longitude": "-121.93824"
+                            },
+                            "OperatorRef": "CT",
+                            "VehicleRef": "147",
+                            "Monitored": true,
+                            "MonitoredCall": {
+                                "StopPointRef": "70231",
+                                "VehicleAtStop": "",
+                                "AimedDepartureTime": "2019-07-18T19:24:00Z",
+                                "StopPointName": "Lawrence Caltrain",
+                                "VehicleLocationAtStop": "",
+                                "AimedArrivalTime": "2019-07-18T19:24:00Z",
+                                "ExpectedDepartureTime": "2019-07-18T19:24:07Z",
+                                "ExpectedArrivalTime": "2019-07-18T19:23:07Z"
+                            },
+                            "DestinationName": "San Francisco Caltrain Station",
+                            "InCongestion": null,
+                            "DestinationRef": "70011",
+                            "Occupancy": null,
+                            "LineRef": "Local",
+                            "FramedVehicleJourneyRef": {
+                                "DataFrameRef": "2019-07-18",
+                                "DatedVehicleJourneyRef": "147"
+                            },
+                            "PublishedLineName": "Local",
+                            "OriginName": "San Jose Diridon Caltrain",
+                            "DirectionRef": "North",
+                            "OnwardCalls": {
+                                "OnwardCall": [
+                                    {
+                                        "StopPointRef": "70221",
+                                        "ExpectedDepartureTime": "2019-07-18T19:28:00Z",
+                                        "AimedDepartureTime": "2019-07-18T19:28:00Z",
+                                        "StopPointName": "Sunnyvale Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T19:28:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:25:36Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70211",
+                                        "ExpectedDepartureTime": "2019-07-18T19:33:00Z",
+                                        "AimedDepartureTime": "2019-07-18T19:33:00Z",
+                                        "StopPointName": "Mountain View Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T19:33:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:29:04Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70201",
+                                        "ExpectedDepartureTime": "2019-07-18T19:37:00Z",
+                                        "AimedDepartureTime": "2019-07-18T19:37:00Z",
+                                        "StopPointName": "San Antonio Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T19:37:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:31:41Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70191",
+                                        "ExpectedDepartureTime": "2019-07-18T19:41:00Z",
+                                        "AimedDepartureTime": "2019-07-18T19:41:00Z",
+                                        "StopPointName": "California Ave Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T19:41:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:34:40Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70171",
+                                        "ExpectedDepartureTime": "2019-07-18T19:46:00Z",
+                                        "AimedDepartureTime": "2019-07-18T19:46:00Z",
+                                        "StopPointName": "Palo Alto Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T19:46:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:37:40Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70161",
+                                        "ExpectedDepartureTime": "2019-07-18T19:49:00Z",
+                                        "AimedDepartureTime": "2019-07-18T19:49:00Z",
+                                        "StopPointName": "Menlo Park Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T19:49:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:39:34Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70141",
+                                        "ExpectedDepartureTime": "2019-07-18T19:55:00Z",
+                                        "AimedDepartureTime": "2019-07-18T19:55:00Z",
+                                        "StopPointName": "Redwood City Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T19:55:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:43:59Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70131",
+                                        "ExpectedDepartureTime": "2019-07-18T19:59:00Z",
+                                        "AimedDepartureTime": "2019-07-18T19:59:00Z",
+                                        "StopPointName": "San Carlos Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T19:59:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:46:46Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70121",
+                                        "ExpectedDepartureTime": "2019-07-18T20:03:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:03:00Z",
+                                        "StopPointName": "Belmont Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:03:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:48:49Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70111",
+                                        "ExpectedDepartureTime": "2019-07-18T20:06:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:06:00Z",
+                                        "StopPointName": "Hillsdale Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:06:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:50:58Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70101",
+                                        "ExpectedDepartureTime": "2019-07-18T20:09:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:09:00Z",
+                                        "StopPointName": "Hayward Park Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:09:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:52:45Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70091",
+                                        "ExpectedDepartureTime": "2019-07-18T20:12:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:12:00Z",
+                                        "StopPointName": "San Mateo Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:12:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:54:46Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70081",
+                                        "ExpectedDepartureTime": "2019-07-18T20:15:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:15:00Z",
+                                        "StopPointName": "Burlingame Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:15:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:56:50Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70061",
+                                        "ExpectedDepartureTime": "2019-07-18T20:20:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:20:00Z",
+                                        "StopPointName": "Millbrae Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:20:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:01:19Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70051",
+                                        "ExpectedDepartureTime": "2019-07-18T20:25:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:25:00Z",
+                                        "StopPointName": "San Bruno Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:25:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:04:17Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70041",
+                                        "ExpectedDepartureTime": "2019-07-18T20:29:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:29:00Z",
+                                        "StopPointName": "South San Francisco Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:29:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:06:48Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70031",
+                                        "ExpectedDepartureTime": "2019-07-18T20:35:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:35:00Z",
+                                        "StopPointName": "Bayshore Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:35:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:11:36Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70021",
+                                        "ExpectedDepartureTime": "2019-07-18T20:41:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:41:00Z",
+                                        "StopPointName": "22nd Street Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:41:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:15:17Z"
+                                    }
+                                ]
+                            }
+                        },
+                        "RecordedAtTime": "2019-07-18T19:23:40Z",
+                        "ValidUntilTime": ""
+                    },
+                    {
+                        "MonitoredVehicleJourney": {
+                            "OriginRef": "70012",
+                            "Bearing": null,
+                            "VehicleLocation": {
+                                "Latitude": "37.7756386",
+                                "Longitude": "-122.396378"
+                            },
+                            "OperatorRef": "CT",
+                            "VehicleRef": "150",
+                            "Monitored": true,
+                            "MonitoredCall": {
+                                "StopPointRef": "70012",
+                                "VehicleAtStop": "",
+                                "AimedDepartureTime": "2019-07-18T20:00:00Z",
+                                "StopPointName": "San Francisco Caltrain",
+                                "VehicleLocationAtStop": "",
+                                "AimedArrivalTime": "2019-07-18T20:00:00Z",
+                                "ExpectedDepartureTime": "2019-07-18T20:00:00Z",
+                                "ExpectedArrivalTime": "2019-07-18T19:59:45Z"
+                            },
+                            "DestinationName": "San Jose Diridon Caltrain Station",
+                            "InCongestion": null,
+                            "DestinationRef": "70262",
+                            "Occupancy": null,
+                            "LineRef": "Local",
+                            "FramedVehicleJourneyRef": {
+                                "DataFrameRef": "2019-07-18",
+                                "DatedVehicleJourneyRef": "150"
+                            },
+                            "PublishedLineName": "Local",
+                            "OriginName": "San Francisco Caltrain",
+                            "DirectionRef": "South",
+                            "OnwardCalls": {
+                                "OnwardCall": [
+                                    {
+                                        "StopPointRef": "70022",
+                                        "ExpectedDepartureTime": "2019-07-18T20:04:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:04:00Z",
+                                        "StopPointName": "22nd Street Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:04:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:03:45Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70032",
+                                        "ExpectedDepartureTime": "2019-07-18T20:09:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:09:00Z",
+                                        "StopPointName": "Bayshore Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:09:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:08:45Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70042",
+                                        "ExpectedDepartureTime": "2019-07-18T20:16:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:16:00Z",
+                                        "StopPointName": "South San Francisco Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:16:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:15:45Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70052",
+                                        "ExpectedDepartureTime": "2019-07-18T20:20:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:20:00Z",
+                                        "StopPointName": "San Bruno Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:20:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:19:45Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70062",
+                                        "ExpectedDepartureTime": "2019-07-18T20:25:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:25:00Z",
+                                        "StopPointName": "Millbrae Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:25:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:24:45Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70082",
+                                        "ExpectedDepartureTime": "2019-07-18T20:29:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:29:00Z",
+                                        "StopPointName": "Burlingame Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:29:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:28:45Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70092",
+                                        "ExpectedDepartureTime": "2019-07-18T20:32:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:32:00Z",
+                                        "StopPointName": "San Mateo Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:32:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:31:45Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70102",
+                                        "ExpectedDepartureTime": "2019-07-18T20:36:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:36:00Z",
+                                        "StopPointName": "Hayward Park Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:36:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:35:45Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70112",
+                                        "ExpectedDepartureTime": "2019-07-18T20:39:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:39:00Z",
+                                        "StopPointName": "Hillsdale Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:39:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:38:45Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70122",
+                                        "ExpectedDepartureTime": "2019-07-18T20:43:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:43:00Z",
+                                        "StopPointName": "Belmont Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:43:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:42:45Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70132",
+                                        "ExpectedDepartureTime": "2019-07-18T20:46:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:46:00Z",
+                                        "StopPointName": "San Carlos Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:46:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:45:45Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70142",
+                                        "ExpectedDepartureTime": "2019-07-18T20:51:00Z",
+                                        "AimedDepartureTime": "2019-07-18T20:51:00Z",
+                                        "StopPointName": "Redwood City Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T20:51:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:50:45Z"
+                                    }
+                                ]
+                            }
+                        },
+                        "RecordedAtTime": "2019-07-18T19:23:40Z",
+                        "ValidUntilTime": ""
+                    },
+                    {
+                        "MonitoredVehicleJourney": {
+                            "OriginRef": "70012",
+                            "Bearing": null,
+                            "VehicleLocation": {
+                                "Latitude": "37.7753487",
+                                "Longitude": "-122.396408"
+                            },
+                            "OperatorRef": "CT",
+                            "VehicleRef": "152",
+                            "Monitored": true,
+                            "MonitoredCall": {
+                                "StopPointRef": "70022",
+                                "VehicleAtStop": "",
+                                "AimedDepartureTime": "2019-07-18T21:04:00Z",
+                                "StopPointName": "22nd Street Caltrain",
+                                "VehicleLocationAtStop": "",
+                                "AimedArrivalTime": "2019-07-18T21:04:00Z",
+                                "ExpectedDepartureTime": "2019-07-18T21:04:00Z",
+                                "ExpectedArrivalTime": "2019-07-18T19:24:31Z"
+                            },
+                            "DestinationName": "San Jose Diridon Caltrain Station",
+                            "InCongestion": null,
+                            "DestinationRef": "70262",
+                            "Occupancy": null,
+                            "LineRef": "Local",
+                            "FramedVehicleJourneyRef": {
+                                "DataFrameRef": "2019-07-18",
+                                "DatedVehicleJourneyRef": "152"
+                            },
+                            "PublishedLineName": "Local",
+                            "OriginName": "San Francisco Caltrain",
+                            "DirectionRef": "South",
+                            "OnwardCalls": {
+                                "OnwardCall": [
+                                    {
+                                        "StopPointRef": "70032",
+                                        "ExpectedDepartureTime": "2019-07-18T21:09:00Z",
+                                        "AimedDepartureTime": "2019-07-18T21:09:00Z",
+                                        "StopPointName": "Bayshore Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T21:09:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:28:33Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70042",
+                                        "ExpectedDepartureTime": "2019-07-18T21:16:00Z",
+                                        "AimedDepartureTime": "2019-07-18T21:16:00Z",
+                                        "StopPointName": "South San Francisco Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T21:16:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:33:48Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70052",
+                                        "ExpectedDepartureTime": "2019-07-18T21:20:00Z",
+                                        "AimedDepartureTime": "2019-07-18T21:20:00Z",
+                                        "StopPointName": "San Bruno Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T21:20:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:35:35Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70062",
+                                        "ExpectedDepartureTime": "2019-07-18T21:25:00Z",
+                                        "AimedDepartureTime": "2019-07-18T21:25:00Z",
+                                        "StopPointName": "Millbrae Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T21:25:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:38:30Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70082",
+                                        "ExpectedDepartureTime": "2019-07-18T21:29:00Z",
+                                        "AimedDepartureTime": "2019-07-18T21:29:00Z",
+                                        "StopPointName": "Burlingame Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T21:29:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:42:15Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70092",
+                                        "ExpectedDepartureTime": "2019-07-18T21:32:00Z",
+                                        "AimedDepartureTime": "2019-07-18T21:32:00Z",
+                                        "StopPointName": "San Mateo Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T21:32:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:42:15Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70102",
+                                        "ExpectedDepartureTime": "2019-07-18T21:36:00Z",
+                                        "AimedDepartureTime": "2019-07-18T21:36:00Z",
+                                        "StopPointName": "Hayward Park Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T21:36:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:47:35Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70112",
+                                        "ExpectedDepartureTime": "2019-07-18T21:39:00Z",
+                                        "AimedDepartureTime": "2019-07-18T21:39:00Z",
+                                        "StopPointName": "Hillsdale Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T21:39:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:47:35Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70122",
+                                        "ExpectedDepartureTime": "2019-07-18T21:43:00Z",
+                                        "AimedDepartureTime": "2019-07-18T21:43:00Z",
+                                        "StopPointName": "Belmont Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T21:43:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:51:09Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70132",
+                                        "ExpectedDepartureTime": "2019-07-18T21:46:00Z",
+                                        "AimedDepartureTime": "2019-07-18T21:46:00Z",
+                                        "StopPointName": "San Carlos Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T21:46:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:52:41Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70142",
+                                        "ExpectedDepartureTime": "2019-07-18T21:51:00Z",
+                                        "AimedDepartureTime": "2019-07-18T21:51:00Z",
+                                        "StopPointName": "Redwood City Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T21:51:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:52:41Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70162",
+                                        "ExpectedDepartureTime": "2019-07-18T21:56:00Z",
+                                        "AimedDepartureTime": "2019-07-18T21:56:00Z",
+                                        "StopPointName": "Menlo Park Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T21:56:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T19:59:11Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70172",
+                                        "ExpectedDepartureTime": "2019-07-18T22:00:00Z",
+                                        "AimedDepartureTime": "2019-07-18T22:00:00Z",
+                                        "StopPointName": "Palo Alto Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T22:00:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:01:15Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70192",
+                                        "ExpectedDepartureTime": "2019-07-18T22:04:00Z",
+                                        "AimedDepartureTime": "2019-07-18T22:04:00Z",
+                                        "StopPointName": "California Ave Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T22:04:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:01:15Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70202",
+                                        "ExpectedDepartureTime": "2019-07-18T22:08:00Z",
+                                        "AimedDepartureTime": "2019-07-18T22:08:00Z",
+                                        "StopPointName": "San Antonio Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T22:08:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:07:46Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70212",
+                                        "ExpectedDepartureTime": "2019-07-18T22:13:00Z",
+                                        "AimedDepartureTime": "2019-07-18T22:13:00Z",
+                                        "StopPointName": "Mountain View Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T22:13:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:07:46Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70222",
+                                        "ExpectedDepartureTime": "2019-07-18T22:18:00Z",
+                                        "AimedDepartureTime": "2019-07-18T22:18:00Z",
+                                        "StopPointName": "Sunnyvale Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T22:18:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:13:30Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70232",
+                                        "ExpectedDepartureTime": "2019-07-18T22:22:00Z",
+                                        "AimedDepartureTime": "2019-07-18T22:22:00Z",
+                                        "StopPointName": "Lawrence Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T22:22:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:16:21Z"
+                                    },
+                                    {
+                                        "StopPointRef": "70242",
+                                        "ExpectedDepartureTime": "2019-07-18T22:28:00Z",
+                                        "AimedDepartureTime": "2019-07-18T22:28:00Z",
+                                        "StopPointName": "Santa Clara Caltrain",
+                                        "AimedArrivalTime": "2019-07-18T22:28:00Z",
+                                        "ExpectedArrivalTime": "2019-07-18T20:20:47Z"
+                                    }
+                                ]
+                            }
+                        },
+                        "RecordedAtTime": "2019-07-18T19:23:40Z",
+                        "ValidUntilTime": ""
+                    }
+                ],
+                "version": "1.4",
+                "ResponseTimestamp": "2019-07-18T19:23:44Z"
+            }
+        }
+    }
+}
