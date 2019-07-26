@@ -1,0 +1,587 @@
+{
+    "Contents": {
+        "ResponseTimestamp": "2019-07-18T16:40:07-07:00",
+        "dataObjects": {
+            "stopAreas": null,
+            "ScheduledStopPoint": [
+                {
+                    "Location": {
+                        "Latitude": "37.757599",
+                        "Longitude": "-122.39188"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70021",
+                    "Name": "22nd Street Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.757583",
+                        "Longitude": "-122.392404"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70022",
+                    "Name": "22nd Street Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.464584",
+                        "Longitude": "-122.197869"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70152",
+                    "Name": "Atherton Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.464645",
+                        "Longitude": "-122.19779"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70151",
+                    "Name": "Atherton Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.709544",
+                        "Longitude": "-122.40198"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70032",
+                    "Name": "Bayshore Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.709537",
+                        "Longitude": "-122.401586"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70031",
+                    "Name": "Bayshore Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.52089",
+                        "Longitude": "-122.275738"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70121",
+                    "Name": "Belmont Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.520844",
+                        "Longitude": "-122.275816"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70122",
+                    "Name": "Belmont Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.252379",
+                        "Longitude": "-121.797683"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70292",
+                    "Name": "Blossom Hill Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.252422",
+                        "Longitude": "-121.797643"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70291",
+                    "Name": "Blossom Hill Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.587552",
+                        "Longitude": "-122.362708"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70072",
+                    "Name": "Broadway Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.58764",
+                        "Longitude": "-122.36265"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70071",
+                    "Name": "Broadway Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.580197",
+                        "Longitude": "-122.3449"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70081",
+                    "Name": "Burlingame Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.580186",
+                        "Longitude": "-122.345075"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70082",
+                    "Name": "Burlingame Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.429365",
+                        "Longitude": "-122.141927"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70191",
+                    "Name": "California Ave Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.429333",
+                        "Longitude": "-122.141978"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70192",
+                    "Name": "California Ave Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.284062",
+                        "Longitude": "-121.842037"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70282",
+                    "Name": "Capitol Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.284102",
+                        "Longitude": "-121.841955"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70281",
+                    "Name": "Capitol Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.342384",
+                        "Longitude": "-121.9146"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70251",
+                    "Name": "College Park Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.342338",
+                        "Longitude": "-121.914677"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70252",
+                    "Name": "College Park Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.003538",
+                        "Longitude": "-121.566088"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70321",
+                    "Name": "Gilroy Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.003485",
+                        "Longitude": "-121.566225"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70322",
+                    "Name": "Gilroy Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.552938",
+                        "Longitude": "-122.309338"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70101",
+                    "Name": "Hayward Park Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.552994",
+                        "Longitude": "-122.309608"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70102",
+                    "Name": "Hayward Park Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.537814",
+                        "Longitude": "-122.297461"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70112",
+                    "Name": "Hillsdale Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.537868",
+                        "Longitude": "-122.297349"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70111",
+                    "Name": "Hillsdale Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.370484",
+                        "Longitude": "-121.997135"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70232",
+                    "Name": "Lawrence Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.370598",
+                        "Longitude": "-121.997114"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70231",
+                    "Name": "Lawrence Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.454856",
+                        "Longitude": "-122.182297"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70161",
+                    "Name": "Menlo Park Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.454745",
+                        "Longitude": "-122.182405"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70162",
+                    "Name": "Menlo Park Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.599797",
+                        "Longitude": "-122.386832"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70062",
+                    "Name": "Millbrae Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.59988",
+                        "Longitude": "-122.386647"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70061",
+                    "Name": "Millbrae Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.129363",
+                        "Longitude": "-121.650244"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70301",
+                    "Name": "Morgan Hill Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.129321",
+                        "Longitude": "-121.650304"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70302",
+                    "Name": "Morgan Hill Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.394459",
+                        "Longitude": "-122.075956"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70211",
+                    "Name": "Mountain View Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.394402",
+                        "Longitude": "-122.075994"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70212",
+                    "Name": "Mountain View Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.443405",
+                        "Longitude": "-122.164697"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70172",
+                    "Name": "Palo Alto Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.443475",
+                        "Longitude": "-122.164614"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70171",
+                    "Name": "Palo Alto Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.486101",
+                        "Longitude": "-122.232"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70142",
+                    "Name": "Redwood City Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.486159",
+                        "Longitude": "-122.231936"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70141",
+                    "Name": "Redwood City Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.407277",
+                        "Longitude": "-122.107125"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70202",
+                    "Name": "San Antonio Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.407323",
+                        "Longitude": "-122.107069"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70201",
+                    "Name": "San Antonio Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.631108",
+                        "Longitude": "-122.412076"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70052",
+                    "Name": "San Bruno Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.631128",
+                        "Longitude": "-122.411968"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70051",
+                    "Name": "San Bruno Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.507933",
+                        "Longitude": "-122.260266"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70132",
+                    "Name": "San Carlos Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.50805",
+                        "Longitude": "-122.26015"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70131",
+                    "Name": "San Carlos Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.776348",
+                        "Longitude": "-122.394935"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70012",
+                    "Name": "San Francisco Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.77639",
+                        "Longitude": "-122.394992"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70011",
+                    "Name": "San Francisco Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.330196",
+                        "Longitude": "-121.901985"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "777402",
+                    "Name": "San Jose Caltrain Station"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.329231",
+                        "Longitude": "-121.903173"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70262",
+                    "Name": "San Jose Diridon Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.329239",
+                        "Longitude": "-121.903011"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70261",
+                    "Name": "San Jose Diridon Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.085225",
+                        "Longitude": "-121.610049"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70311",
+                    "Name": "San Martin Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.086653",
+                        "Longitude": "-121.610936"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70312",
+                    "Name": "San Martin Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.568087",
+                        "Longitude": "-122.323851"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70091",
+                    "Name": "San Mateo Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.568294",
+                        "Longitude": "-122.324092"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70092",
+                    "Name": "San Mateo Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.353189",
+                        "Longitude": "-121.936135"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70242",
+                    "Name": "Santa Clara Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.353238",
+                        "Longitude": "-121.93608"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70241",
+                    "Name": "Santa Clara Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.655946",
+                        "Longitude": "-122.405018"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70042",
+                    "Name": "South San Francisco Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.65589",
+                        "Longitude": "-122.40487"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70041",
+                    "Name": "South San Francisco Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.378916",
+                        "Longitude": "-122.031372"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70221",
+                    "Name": "Sunnyvale Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.378789",
+                        "Longitude": "-122.031423"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70222",
+                    "Name": "Sunnyvale Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.31174",
+                        "Longitude": "-121.883721"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70271",
+                    "Name": "Tamien Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.31175",
+                        "Longitude": "-121.883999"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "70272",
+                    "Name": "Tamien Caltrain"
+                },
+                {
+                    "Location": {
+                        "Latitude": "37.311638",
+                        "Longitude": "-121.883403"
+                    },
+                    "StopType": "onstreetBus",
+                    "id": "777403",
+                    "Name": "Tamien Caltrain Station"
+                }
+            ],
+            "id": "CT"
+        }
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "stops": [
+        {
+            "name": "San Francisco",
+            "abbrv": "sfk",
+            "id": "7001"
+        },
+        {
+            "name": "22nd Street",
+            "abbrv": "twe",
+            "id": "7002"
+        },
+        {
+            "name": "Bayshore",
+            "abbrv": "bay",
+            "id": "7003"
+        },
+        {
+            "name": "South San Francisco",
+            "abbrv": "ssf",
+            "id": "7004"
+        },
+        {
+            "name": "San Bruno",
+            "abbrv": "sbr",
+            "id": "7005"
+        },
+        {
+            "name": "Millbrae",
+            "abbrv": "mil",
+            "id": "7006"
+        },
+        {
+            "name": "Broadway",
+            "abbrv": "bwy",
+            "id": "7007"
+        },
+        {
+            "name": "Burlingame",
+            "abbrv": "bur",
+            "id": "7008"
+        },
+        {
+            "name": "San Mateo",
+            "abbrv": "smt",
+            "id": "7009"
+        },
+        {
+            "name": "Hayward Park",
+            "abbrv": "hpk",
+            "id": "7010"
+        },
+        {
+            "name": "Hillsdale",
+            "abbrv": "hil",
+            "id": "7011"
+        },
+        {
+            "name": "Belmont",
+            "abbrv": "bel",
+            "id": "7012"
+        },
+        {
+            "name": "San Carlos",
+            "abbrv": "scs",
+            "id": "7013"
+        },
+        {
+            "name": "Redwood City",
+            "abbrv": "rwc",
+            "id": "7014"
+        },
+        {
+            "name": "Atherton",
+            "abbrv": "ath",
+            "id": "7015"
+        },
+        {
+            "name": "Menlo Park",
+            "abbrv": "mpk",
+            "id": "7016"
+        },
+        {
+            "name": "Palo Alto",
+            "abbrv": "pal",
+            "id": "7017"
+        },
+        {
+            "name": "Stanford",
+            "abbrv": "stf",
+            "id": "7018"
+        },
+        {
+            "name": "California Avenue",
+            "abbrv": "cal",
+            "id": "7019"
+        },
+        {
+            "name": "San Antonio",
+            "abbrv": "sat",
+            "id": "7020"
+        },
+        {
+            "name": "Mountain View",
+            "abbrv": "mvw",
+            "id": "7021"
+        },
+        {
+            "name": "Sunnyvale",
+            "abbrv": "sun",
+            "id": "7022"
+        },
+        {
+            "name": "Lawrence",
+            "abbrv": "law",
+            "id": "7023"
+        },
+        {
+            "name": "Santa Clara",
+            "abbrv": "scl",
+            "id": "7024"
+        },
+        {
+            "name": "College Park",
+            "abbrv": "cpk",
+            "id": "7025"
+        },
+        {
+            "name": "San Jose Diridon",
+            "abbrv": "sjd",
+            "id": "7026"
+        },
+        {
+            "name": "Tamien",
+            "abbrv": "tam",
+            "id": "7027"
+        },
+        {
+            "name": "Capitol",
+            "abbrv": "cap",
+            "id": "7028"
+        },
+        {
+            "name": "Blossom Hill",
+            "abbrv": "bhl",
+            "id": "7029"
+        },
+        {
+            "name": "Morgan Hill",
+            "abbrv": "mhl",
+            "id": "7030"
+        },
+        {
+            "name": "San Martin",
+            "abbrv": "smr",
+            "id": "7031"
+        },
+        {
+            "name": "Gilroy",
+            "abbrv": "gil",
+            "id": "7032"
+        }
+    ]
+}
